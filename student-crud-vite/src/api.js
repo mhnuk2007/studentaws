@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const DEFAULT_BASE = 'http://184.72.211.180:8080';
+const DEFAULT_BASE = 'http://studentaws-backend-env.eba-xz2bvixr.us-east-1.elasticbeanstalk.com';
 
 const KEY = 'student_api_base'
 
